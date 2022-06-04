@@ -55,7 +55,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hassaan0509&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hassaan0509&theme=dracula" />
     </span></a>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hassaan0509"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hassaan0509layout=compact&langs_count=8&theme=radical"/>
    
 </p>
 
