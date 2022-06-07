@@ -34,7 +34,7 @@
       alt="Hassaan0509" height="30" width="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/saad-fareed/" target="blank">
+<a href="https://www.linkedin.com/in/hassaan-ahmad-155132221" target="blank">
   <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
       alt="Hassaan0509" height="30" width="40" />
 </a>
