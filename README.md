@@ -1,85 +1,3 @@
-<!-- <body>
-  <div align="center">
-    <h1> Hi there, I'm Saad Fareed👋<a href="#"></h1>
-  </div>
-<p align="center">
-<a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Django+Developer;Python+Backend+Engineer;Data+Scientist;NLP+Engineer&center=true&width=500&height=50"></a>
-	
- ## Bootcamp alert
-- [MLSA Job Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) will started soon.
-<img align="right" alt="" src="fresh.jpg" width="270" />
-	
-## My Python Development Course 
-- [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
-
-
-
-## Personal Projects
-
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Last Commit 🚩
-|-------------|-------------------|---|---| ----|
-| [*Meeting Summarization*](https://github.com/saadfareed/transcript_summary) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/transcript_summary?color=green&logo=github&style=flat)](https://github.com/saadfareed/transcript_summary/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/transcript_summary?style=flat&logo=github)](https://github.com/saadfareed/transcript_summary/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/transcript_summary?style=flat&color=critical&logo=github)](https://github.com/saadfareed/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |[![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/transcript_summary?color=blue&logo=github&style=flat)](https://github.com/saadfareed/transcript_summary/commits/) |
-| [*Github Profile*](https://github.com/saadfareed/saadfareed) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/saadfareed?color=green&logo=github&style=flat)](https://github.com/saadfareed/saadfareed/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/saadfareed?style=flat&logo=github)](https://github.com/saadfareed/saadfareed/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/saadfareed?style=flat&color=critical&logo=github)](https://github.com/saadfareed/saadfareed/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/saadfareed?color=blue&logo=github&style=flat)](https://github.com/saadfareed/saadfareed/commits/) |
-| [*Certificate Generator*](https://github.com/saadfareed/Certificate_generator) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/Certificate_generator?color=green&logo=github&style=flat)](https://github.com/saadfareed/Certificate_generator/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Certificate_generator?style=flat&logo=github)](https://github.com/saadfareed/Certificate_generator/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Certificate_generator?style=flat&color=critical&logo=github)](https://github.com/saadfareed/Certificate_generator/pulls?q=is%3Apr+is%3Aclosed)   | [![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Certificate_generator?color=blue&logo=github&style=flat)](https://github.com/saadfareed/Certificate_generator/commits/)|
-| [*Leetcode Practice*](https://github.com/saadfareed/Leetcode) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/Leetcode?color=green&logo=github&style=flat)](https://github.com/saadfareed/Leetcode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Leetcode?style=flat&logo=github)](https://github.com/saadfareed/Leetcode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Leetcode?style=flat&color=critical&logo=github)](https://github.com/saadfareed/Leetcode/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Leetcode?color=blue&logo=github&style=flat)](https://github.com/saadfareed/Leetcode/commits/) |
-
-	
- 
- <h2>GitHub Analytics
- </h2>
-
-<p align="center">
-<a href="https://github.com/saadfareed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadfareed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadfareed&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&show_icons=true&locale=en&layout=demo&theme=algolia" />
-</p>
-</p>
-<br>
-	
-## ⚡️Github Contributions
-	
-<h4 align="center">Isometric view of contributions in the last year</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
-	</a>
-</p>
-
-
-## 🚀Github Metrics
-<p align="center">
-	<img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
-</p>
-<br>
-
-## 🐛Github Magic Game
-<p align="center">
-  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-<br>
-<h2 >🏆 GitHub Profile Trophy</h2>
-<p>
-<a href="https://github.com/saadfareed">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadfareed&theme=matrix&column=8&margin-w=15&margin-h=15"/>
-
-</a>
-</p>
-<p align="center"> 
-  Views<br>
-  <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
-</p> -->
-
-
-
-
-
-
-
-
-
-
 <body>
   <div align="center">
     <h1> Hi there, I'm Hassaan Ahmad👋<a href="#"></h1>
@@ -175,7 +93,7 @@
 </table>
 	  
 <p align="center">
-<a href="https://www.linkedin.com/in/hassaan-ahmad-155132221/"><img src="https://img.shields.io/badge/-Hassaan%20hAhmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hassaan-ahmad-155132221/"><img src="https://img.shields.io/badge/-Hassaan%20Ahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hahmad2205@gmail.com"><img src="https://img.shields.io/badge/-hassaanahmad@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/hassaan.ahmad.2205/"><img src="https://img.shields.io/badge/-@hassaanahmad-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://leetcode.com/hahmad2205/"><img src="https://img.shields.io/badge/-/hassaanahmad-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
@@ -211,3 +129,7 @@
     
 ![Spotify](https://novatorem.vercel.app/api/spotify)
     
+<!-- <p align="center"> 
+  Views<br>
+  <img src="https://profile-counter.glitch.me/hassaanahmad/count.svg" />
+</p> -->
