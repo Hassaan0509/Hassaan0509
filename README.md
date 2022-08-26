@@ -234,7 +234,7 @@
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
     <td align='center'>
-        <img src="[https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1920px-MongoDB_Logo.svg.png)">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1920px-MongoDB_Logo.svg.png">
     </td>
 </tr>
     
