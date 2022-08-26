@@ -100,19 +100,25 @@
  </p>
     
 <br>
-<h2 align="center"> Contribution Graph: </h2>
 
-[![Hassaan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hassaan0509&theme=xcode)](https://github.com/Hassaan0509)
 
-<h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
+
+<h2>GitHub Analytics
+ </h2>
+
 <p align="center">
-  <a href="https://github.com/Hassaan0509"><span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hassaan0509&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hassaan0509&theme=dracula" />
-    </span></a>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hassaan0509&layout=compact&langs_count=8&theme=radical"/>
-   
+<a href="https://github.com/saadfareed">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassaan0509&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hassaan0509&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassaan0509&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
+</p>
+<br>
+	
+## ⚡️Github Contributions
+	
+[![Hassaan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hassaan0509&theme=xcode)](https://github.com/Hassaan0509)
 
 <p align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hassaan0509&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
