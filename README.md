@@ -175,7 +175,7 @@
 </table>
 	  
 <p align="center">
-<a href="https://www.linkedin.com/in/hassaan-ahmad-155132221/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hassaan-ahmad-155132221/"><img src="https://img.shields.io/badge/-Hassaan%20hAhmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hahmad2205@gmail.com"><img src="https://img.shields.io/badge/-hassaanahmad@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/hassaan.ahmad.2205/"><img src="https://img.shields.io/badge/-@hassaanahmad-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://leetcode.com/hahmad2205/"><img src="https://img.shields.io/badge/-/hassaanahmad-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
