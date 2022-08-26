@@ -12,24 +12,6 @@
 ## My Python Development Course 
 - [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
 
-### I'm a Python Developer, Teacher and Researcher!
-- 🔭 I’m currently working as Backend Engineer @Turingcom.
-- 🌱 I’m currently expanding my knowledge in DevOps.
-- 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 500 students.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
-- 💎 If you are a Tech boy/girl let's get connected  
- 
-
-</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:saadfareed632@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
- </p>
- 
-<br>
 
 
 ## Personal Projects
@@ -145,8 +127,21 @@
 </a>
 </p> -->
     <br>
+
+<p align="center">
+### I'm a Front-end Web Developer, Teach Enthuist and Student!
+- 🔭 I’m currently working as Front-end Web Developer @Apex Space.
+- 🌱 I’m currently expanding my knowledge in Back-end Web development.
+- 👯 I’m looking to collaborate with other content creators and developers.
+- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 💎 If you are a Tech boy/girl let's get connected  
+
+</p>
+ 
+<br>
+
     
-    <h2>Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 <table width="100" align="center">
 <tr>
@@ -181,7 +176,6 @@
     
 </table>
 	  
-	  </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/hassaan-ahmad-155132221/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hahmad2205@gmail.com"><img src="https://img.shields.io/badge/-hassaanahmad@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
