@@ -120,9 +120,7 @@
 	
 [![Hassaan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hassaan0509&theme=xcode)](https://github.com/Hassaan0509)
 
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hassaan0509&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
-</p>
+
 <br/>
 <h2 align="center">🏆 GitHub Profile Trophy:</h2>
 <p align="center">
