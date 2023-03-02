@@ -65,7 +65,7 @@
         	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1920px-MongoDB_Logo.svg.png">
     	</td>
 	<td align='center'>
-        	<img src="[https://kinsta.com/wp-content/uploads/2022/04/express-1.png](https://static.javatpoint.com/blog/images/mern-stack7.png)">
+        	<img src="https://static.javatpoint.com/blog/images/mern-stack7.png">
     	</td>
 	<td align='center' width="200">
         	<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
