@@ -65,7 +65,7 @@
         	<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
     	</td>
 	<td align='center'>
-        	<img src="">
+        	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/180px-Expressjs.png">
     	</td>
 	<td align='center' width="200">
         	<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
@@ -102,6 +102,9 @@
     	</td>
 	<td align='center'>
         	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" width="80">
+    	</td>
+	<td align='center'>
+        	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Next.js_Logotype_Light_Background.svg/180px-Next.js_Logotype_Light_Background.svg.png" width="80">
     	</td>
 </tr>
     
