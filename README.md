@@ -64,9 +64,9 @@
 	<td align='center' width="200">
         	<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
     	</td>
-	<td align='center'>
-        	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/180px-Expressjs.png">
-    	</td>
+	<td align='center' width="200">
+        <img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67" >
+    </td>
 	<td align='center' width="200">
         	<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     	</td>
@@ -104,7 +104,7 @@
         	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" width="80">
     	</td>
 	<td align='center'>
-        	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Next.js_Logotype_Light_Background.svg/180px-Next.js_Logotype_Light_Background.svg.png" width="80">
+        	<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="80">
     	</td>
 </tr>
     
@@ -150,7 +150,7 @@
     
 ![Spotify](https://novatorem.vercel.app/api/spotify)
     
-<!-- <p align="center"> 
+<p align="center"> 
   Views<br>
   <img src="https://profile-counter.glitch.me/hassaanahmad/count.svg" />
-</p> -->
+</p>
