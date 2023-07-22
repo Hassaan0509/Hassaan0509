@@ -161,7 +161,7 @@
  </h2>
 
 <p align="center">
-<a href="https://github.com/saadfareed">
+<a href="https://github.com/Hassaan0509">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassaan0509&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hassaan0509&hide=html&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -169,10 +169,7 @@
 </p>
 </p>
 <br>
-	
-<!-- ## ⚡️Github Contributions
-[![Hassaan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hassaan0509&theme=xcode)](https://github.com/Hassaan0509)
- -->
+
 
  [![An image of @hassaanahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hassaanahmad)](https://holopin.io/@hassaanahmad)
 
