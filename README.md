@@ -47,10 +47,10 @@
     <br>
 
 ### I'm a Mern Stack Web Developer, Teach Enthuist and Student!
-- 🔭 I’m currently working as Mern Stack Web Developer @Apex Space.
+- 🔭 I’m currently working as Mern Stack Web Developer.
 - 🌱 I’m currently expanding my knowledge in other Web Technologies.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected.
 
  
