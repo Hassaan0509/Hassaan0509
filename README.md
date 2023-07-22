@@ -55,7 +55,6 @@
 
  
 <br>
-
     
 <h2>Tech Stack</h2>
 
@@ -137,6 +136,8 @@
 <!-- ## ⚡️Github Contributions
 [![Hassaan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hassaan0509&theme=xcode)](https://github.com/Hassaan0509)
  -->
+
+ [![An image of @hassaanahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hassaanahmad)](https://holopin.io/@hassaanahmad)
 
 <br/>
 <h2 align="center">🏆 GitHub Profile Trophy:</h2>
