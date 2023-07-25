@@ -1,6 +1,6 @@
 <body>
-  <div align="center">
-    <h1> Hi there, I'm Hassaan Ahmad👋<a href="#"></h1>
+<div align="center">
+    <h1 style="color: #F7CC18FF;">Hi there, I'm Hassaan Ahmad👋<a href="#"></a></h1>
   </div>
 <p align="center">
   <a href="https://github.com/Hassaan0509"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=React+Developer;Mern+Stack+Developer;Django+Developer;HTML%20|%20CSS%20|%20Bootstrap|%20Javascript;MongoDb|%20ExpressJs|%20ReactJs|%20Nodejs;Always%20learning%20new%20Technology&center=true&width=500&height=50" alt="Typing SVG"></a>
@@ -155,20 +155,19 @@
     
 <br>
 
-
-
-<h2>GitHub Analytics
- </h2>
-
-<p align="center">
-<a href="https://github.com/Hassaan0509">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassaan0509&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hassaan0509&hide=html&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassaan0509&show_icons=true&locale=en&layout=demo&theme=algolia" />
-</p>
-</p>
-<br>
+<table>
+  <tr>
+    <th>Stats</th>
+    <th>Streak</th>
+    <th>Languages</th>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hassaan0509&theme=gruvbox"/></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Hassaan0509&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hassaan0509&theme=gruvbox"/></td>
+  </tr>
+</table>
+	
 
 
  [![An image of @hassaanahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hassaanahmad)](https://holopin.io/@hassaanahmad)
