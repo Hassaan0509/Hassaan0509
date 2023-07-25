@@ -179,14 +179,6 @@
 </p>
 
 
-## 🚀Github Metrics
-
-<p align="center">
-    <img width="625em" src="https://github.com/Hassaan0509/Hassaan0509/blob/main/github-metrics.svg" />
-</p>
-	
-
-
  [![An image of @hassaanahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hassaanahmad)](https://holopin.io/@hassaanahmad)
 
 <br/>
